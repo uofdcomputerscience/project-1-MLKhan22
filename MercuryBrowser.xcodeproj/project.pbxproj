@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		46F1B4A4234150FA00DF2896 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46F1B4A3234150FA00DF2896 /* AppDelegate.swift */; };
-		46F1B4A6234150FA00DF2896 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46F1B4A5234150FA00DF2896 /* SceneDelegate.swift */; };
-		46F1B4A8234150FA00DF2896 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46F1B4A7234150FA00DF2896 /* ViewController.swift */; };
-		46F1B4AB234150FA00DF2896 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46F1B4A9234150FA00DF2896 /* Main.storyboard */; };
-		46F1B4AD234150FC00DF2896 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46F1B4AC234150FC00DF2896 /* Assets.xcassets */; };
-		46F1B4B0234150FC00DF2896 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46F1B4AE234150FC00DF2896 /* LaunchScreen.storyboard */; };
-		46F1B4B82341511500DF2896 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 46F1B4B72341511500DF2896 /* README.md */; };
+		BAA19F31234BD2DD001EDC80 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA19F30234BD2DD001EDC80 /* AppDelegate.swift */; };
+		BAA19F33234BD2DD001EDC80 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA19F32234BD2DD001EDC80 /* ViewController.swift */; };
+		BAA19F36234BD2DD001EDC80 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAA19F34234BD2DD001EDC80 /* Main.storyboard */; };
+		BAA19F38234BD2DF001EDC80 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAA19F37234BD2DF001EDC80 /* Assets.xcassets */; };
+		BAA19F3B234BD2DF001EDC80 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAA19F39234BD2DF001EDC80 /* LaunchScreen.storyboard */; };
+		BAA19F43234BD331001EDC80 /* MercuryContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA19F42234BD331001EDC80 /* MercuryContent.swift */; };
+		BAA19F49234BFAFE001EDC80 /* ImageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA19F48234BFAFE001EDC80 /* ImageCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		46F1B4A0234150FA00DF2896 /* MercuryBrowser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MercuryBrowser.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		46F1B4A3234150FA00DF2896 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		46F1B4A5234150FA00DF2896 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		46F1B4A7234150FA00DF2896 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		46F1B4AA234150FA00DF2896 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		46F1B4AC234150FC00DF2896 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		46F1B4AF234150FC00DF2896 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		46F1B4B1234150FC00DF2896 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		46F1B4B72341511500DF2896 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		BAA19F2D234BD2DD001EDC80 /* MercuryBrowser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MercuryBrowser.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BAA19F30234BD2DD001EDC80 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		BAA19F32234BD2DD001EDC80 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		BAA19F35234BD2DD001EDC80 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		BAA19F37234BD2DF001EDC80 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BAA19F3A234BD2DF001EDC80 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BAA19F3C234BD2DF001EDC80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BAA19F42234BD331001EDC80 /* MercuryContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MercuryContent.swift; sourceTree = "<group>"; };
+		BAA19F48234BFAFE001EDC80 /* ImageCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		46F1B49D234150FA00DF2896 /* Frameworks */ = {
+		BAA19F2A234BD2DD001EDC80 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,33 +39,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		46F1B497234150FA00DF2896 = {
+		BAA19F24234BD2DD001EDC80 = {
 			isa = PBXGroup;
 			children = (
-				46F1B4B72341511500DF2896 /* README.md */,
-				46F1B4A2234150FA00DF2896 /* MercuryBrowser */,
-				46F1B4A1234150FA00DF2896 /* Products */,
+				BAA19F2F234BD2DD001EDC80 /* MercuryBrowser */,
+				BAA19F2E234BD2DD001EDC80 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		46F1B4A1234150FA00DF2896 /* Products */ = {
+		BAA19F2E234BD2DD001EDC80 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				46F1B4A0234150FA00DF2896 /* MercuryBrowser.app */,
+				BAA19F2D234BD2DD001EDC80 /* MercuryBrowser.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		46F1B4A2234150FA00DF2896 /* MercuryBrowser */ = {
+		BAA19F2F234BD2DD001EDC80 /* MercuryBrowser */ = {
 			isa = PBXGroup;
 			children = (
-				46F1B4A3234150FA00DF2896 /* AppDelegate.swift */,
-				46F1B4A5234150FA00DF2896 /* SceneDelegate.swift */,
-				46F1B4A7234150FA00DF2896 /* ViewController.swift */,
-				46F1B4A9234150FA00DF2896 /* Main.storyboard */,
-				46F1B4AC234150FC00DF2896 /* Assets.xcassets */,
-				46F1B4AE234150FC00DF2896 /* LaunchScreen.storyboard */,
-				46F1B4B1234150FC00DF2896 /* Info.plist */,
+				BAA19F30234BD2DD001EDC80 /* AppDelegate.swift */,
+				BAA19F32234BD2DD001EDC80 /* ViewController.swift */,
+				BAA19F34234BD2DD001EDC80 /* Main.storyboard */,
+				BAA19F37234BD2DF001EDC80 /* Assets.xcassets */,
+				BAA19F39234BD2DF001EDC80 /* LaunchScreen.storyboard */,
+				BAA19F3C234BD2DF001EDC80 /* Info.plist */,
+				BAA19F42234BD331001EDC80 /* MercuryContent.swift */,
+				BAA19F48234BFAFE001EDC80 /* ImageCell.swift */,
 			);
 			path = MercuryBrowser;
 			sourceTree = "<group>";
@@ -73,13 +73,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		46F1B49F234150FA00DF2896 /* MercuryBrowser */ = {
+		BAA19F2C234BD2DD001EDC80 /* MercuryBrowser */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 46F1B4B4234150FC00DF2896 /* Build configuration list for PBXNativeTarget "MercuryBrowser" */;
+			buildConfigurationList = BAA19F3F234BD2DF001EDC80 /* Build configuration list for PBXNativeTarget "MercuryBrowser" */;
 			buildPhases = (
-				46F1B49C234150FA00DF2896 /* Sources */,
-				46F1B49D234150FA00DF2896 /* Frameworks */,
-				46F1B49E234150FA00DF2896 /* Resources */,
+				BAA19F29234BD2DD001EDC80 /* Sources */,
+				BAA19F2A234BD2DD001EDC80 /* Frameworks */,
+				BAA19F2B234BD2DD001EDC80 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -87,25 +87,25 @@
 			);
 			name = MercuryBrowser;
 			productName = MercuryBrowser;
-			productReference = 46F1B4A0234150FA00DF2896 /* MercuryBrowser.app */;
+			productReference = BAA19F2D234BD2DD001EDC80 /* MercuryBrowser.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		46F1B498234150FA00DF2896 /* Project object */ = {
+		BAA19F25234BD2DD001EDC80 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1100;
-				LastUpgradeCheck = 1100;
-				ORGANIZATIONNAME = "Russell Mirabelli";
+				LastSwiftUpdateCheck = 1020;
+				LastUpgradeCheck = 1020;
+				ORGANIZATIONNAME = "Minh Ly";
 				TargetAttributes = {
-					46F1B49F234150FA00DF2896 = {
-						CreatedOnToolsVersion = 11.0;
+					BAA19F2C234BD2DD001EDC80 = {
+						CreatedOnToolsVersion = 10.2.1;
 					};
 				};
 			};
-			buildConfigurationList = 46F1B49B234150FA00DF2896 /* Build configuration list for PBXProject "MercuryBrowser" */;
+			buildConfigurationList = BAA19F28234BD2DD001EDC80 /* Build configuration list for PBXProject "MercuryBrowser" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,56 +113,56 @@
 				en,
 				Base,
 			);
-			mainGroup = 46F1B497234150FA00DF2896;
-			productRefGroup = 46F1B4A1234150FA00DF2896 /* Products */;
+			mainGroup = BAA19F24234BD2DD001EDC80;
+			productRefGroup = BAA19F2E234BD2DD001EDC80 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				46F1B49F234150FA00DF2896 /* MercuryBrowser */,
+				BAA19F2C234BD2DD001EDC80 /* MercuryBrowser */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		46F1B49E234150FA00DF2896 /* Resources */ = {
+		BAA19F2B234BD2DD001EDC80 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				46F1B4B0234150FC00DF2896 /* LaunchScreen.storyboard in Resources */,
-				46F1B4AD234150FC00DF2896 /* Assets.xcassets in Resources */,
-				46F1B4B82341511500DF2896 /* README.md in Resources */,
-				46F1B4AB234150FA00DF2896 /* Main.storyboard in Resources */,
+				BAA19F3B234BD2DF001EDC80 /* LaunchScreen.storyboard in Resources */,
+				BAA19F38234BD2DF001EDC80 /* Assets.xcassets in Resources */,
+				BAA19F36234BD2DD001EDC80 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		46F1B49C234150FA00DF2896 /* Sources */ = {
+		BAA19F29234BD2DD001EDC80 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				46F1B4A8234150FA00DF2896 /* ViewController.swift in Sources */,
-				46F1B4A4234150FA00DF2896 /* AppDelegate.swift in Sources */,
-				46F1B4A6234150FA00DF2896 /* SceneDelegate.swift in Sources */,
+				BAA19F43234BD331001EDC80 /* MercuryContent.swift in Sources */,
+				BAA19F33234BD2DD001EDC80 /* ViewController.swift in Sources */,
+				BAA19F31234BD2DD001EDC80 /* AppDelegate.swift in Sources */,
+				BAA19F49234BFAFE001EDC80 /* ImageCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		46F1B4A9234150FA00DF2896 /* Main.storyboard */ = {
+		BAA19F34234BD2DD001EDC80 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				46F1B4AA234150FA00DF2896 /* Base */,
+				BAA19F35234BD2DD001EDC80 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		46F1B4AE234150FC00DF2896 /* LaunchScreen.storyboard */ = {
+		BAA19F39234BD2DF001EDC80 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				46F1B4AF234150FC00DF2896 /* Base */,
+				BAA19F3A234BD2DF001EDC80 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,7 +170,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		46F1B4B2234150FC00DF2896 /* Debug */ = {
+		BAA19F3D234BD2DF001EDC80 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -202,6 +202,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -220,7 +221,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -230,7 +231,7 @@
 			};
 			name = Debug;
 		};
-		46F1B4B3234150FC00DF2896 /* Release */ = {
+		BAA19F3E234BD2DF001EDC80 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -262,6 +263,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
@@ -274,7 +276,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -284,34 +286,36 @@
 			};
 			name = Release;
 		};
-		46F1B4B5234150FC00DF2896 /* Debug */ = {
+		BAA19F40234BD2DF001EDC80 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 72GKJ2HTV6;
 				INFOPLIST_FILE = MercuryBrowser/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.me.MercuryBrowser;
+				PRODUCT_BUNDLE_IDENTIFIER = com.first.MercuryBrowser;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		46F1B4B6234150FC00DF2896 /* Release */ = {
+		BAA19F41234BD2DF001EDC80 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 72GKJ2HTV6;
 				INFOPLIST_FILE = MercuryBrowser/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.me.MercuryBrowser;
+				PRODUCT_BUNDLE_IDENTIFIER = com.first.MercuryBrowser;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -321,25 +325,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		46F1B49B234150FA00DF2896 /* Build configuration list for PBXProject "MercuryBrowser" */ = {
+		BAA19F28234BD2DD001EDC80 /* Build configuration list for PBXProject "MercuryBrowser" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46F1B4B2234150FC00DF2896 /* Debug */,
-				46F1B4B3234150FC00DF2896 /* Release */,
+				BAA19F3D234BD2DF001EDC80 /* Debug */,
+				BAA19F3E234BD2DF001EDC80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46F1B4B4234150FC00DF2896 /* Build configuration list for PBXNativeTarget "MercuryBrowser" */ = {
+		BAA19F3F234BD2DF001EDC80 /* Build configuration list for PBXNativeTarget "MercuryBrowser" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46F1B4B5234150FC00DF2896 /* Debug */,
-				46F1B4B6234150FC00DF2896 /* Release */,
+				BAA19F40234BD2DF001EDC80 /* Debug */,
+				BAA19F41234BD2DF001EDC80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 46F1B498234150FA00DF2896 /* Project object */;
+	rootObject = BAA19F25234BD2DD001EDC80 /* Project object */;
 }
