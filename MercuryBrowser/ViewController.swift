@@ -22,7 +22,7 @@ class ViewController: UIViewController {
         
         if let url = URL(string: urlString) {
             let request = URLRequest(url: url)
-            let session = URLSession(configuration: .ephemeral) //Set up time to do configuration over the network
+            let session = URLSession(configuration: .ephemeral)
             let task = session.dataTask(with: request) { (data, response, error) in
                 self.mercuryList = try! JSONDecoder().decode(MercuryList.self, from: data!)
                 DispatchQueue.main.async {
